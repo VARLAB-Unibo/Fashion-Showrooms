@@ -6,4 +6,3 @@ The Trussardi exhibition space: https://github.com/shirinhaj/The-Trussardi-exhib
 
 The-Fall-Winter-2022-Collection-by-Ralph-Lauren: https://github.com/shirinhaj/The-Fall-Winter-2022-Collection-by-Ralph-Lauren
 
-The antique museum: https://github.com/shirinhaj/The-antique-museum
